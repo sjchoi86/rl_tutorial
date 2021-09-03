@@ -4,7 +4,7 @@ This repo contains `self-contained` RL tutorials including
 - [Basic Plot Usage](https://github.com/sjchoi86/rl_tutorial/blob/main/notebooks/01_basic_grid_plot.ipynb)
 - [Basic OpenAI Gym Usage](https://github.com/sjchoi86/rl_tutorial/blob/main/notebooks/02_basic_gym_usage.ipynb)
 - [Value Iteration](https://github.com/sjchoi86/rl_tutorial/blob/main/notebooks/03_value_iteration.ipynb)
-- [Policy Iteraction](https://github.com/sjchoi86/rl_tutorial/blob/main/notebooks/04_policy_iteration.ipynb)
+- [Policy Iteration](https://github.com/sjchoi86/rl_tutorial/blob/main/notebooks/04_policy_iteration.ipynb)
 - [Monte Carlo Learning](https://github.com/sjchoi86/rl_tutorial/blob/main/notebooks/05_monte_carlo_learning.ipynb)
 - [SARSA](https://github.com/sjchoi86/rl_tutorial/blob/main/notebooks/06_sarsa.ipynb)
 - [Q Learning](https://github.com/sjchoi86/rl_tutorial/blob/main/notebooks/07_q_learning.ipynb)
