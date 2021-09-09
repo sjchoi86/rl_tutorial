@@ -18,9 +18,10 @@ For those who want to run without `git clone`, please find the colab notebooks i
 
 Lecture notes can also be found in this [Google Drive](https://drive.google.com/drive/folders/1nYhzeTBA74hwrJ2UxPDx0kZt5ZI_WO92?usp=sharing). It contains:
 - [RL applications](https://drive.google.com/file/d/1-1jOKbVE-Ij8mUcjg_-4rlJv7WuIItDd/view?usp=sharing)
-- Model-based methods (MDP, Value Iteration, Policy Iteraction, etc)
-- Model-free methods (MC, TD, SARSA, Q-learning, etc)
-- Policy-based methods (TRPO, PPO, SAC, etc)
-- Population-based methods (CEM, CMA-ES, ARS)
+- [Model-based methods](https://drive.google.com/file/d/1-5rlwOdUDRnOcxMOLVKineJc7r3OBbF6/view?usp=sharing) (MDP, Value Iteration, Policy Iteraction, etc)
+- [Model-free methods](https://drive.google.com/file/d/1-3FGDnyUU5-_ChvQEq7MW_0UTDkSUlfr/view?usp=sharing) (MC, TD, SARSA, Q-learning, etc)
+- [Policy-based methods](https://drive.google.com/file/d/1-6X5c7Acf2vQ6vz_Ef2_JxdxdnRowcWW/view?usp=sharing) (TRPO, PPO, SAC, etc)
+- [Population-based methods](https://drive.google.com/file/d/1-GNSTI-qNaGbW5_kj7a6tJohXq3VAluR/view?usp=sharing) (CEM, CMA-ES, ARS)
+- [Summary](https://drive.google.com/file/d/1-GNSTI-qNaGbW5_kj7a6tJohXq3VAluR/view?usp=sharing)
 
 contact: sungjoon-choi at korea dot ac dot kr
