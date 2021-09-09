@@ -1,6 +1,6 @@
 # Yet Another Reinforcement Learning Tutorial
 
-This repo contains `self-contained` RL tutorials including
+This repo contains `self-contained` RL implementations including
 - [Basic Plot Usage](https://github.com/sjchoi86/rl_tutorial/blob/main/notebooks/01_basic_grid_plot.ipynb)
 - [Basic OpenAI Gym Usage](https://github.com/sjchoi86/rl_tutorial/blob/main/notebooks/02_basic_gym_usage.ipynb)
 - [Value Iteration](https://github.com/sjchoi86/rl_tutorial/blob/main/notebooks/03_value_iteration.ipynb)
@@ -16,7 +16,7 @@ This repo contains `self-contained` RL tutorials including
 
 For those who want to run without `git clone`, please find the colab notebooks in this [Google Drive](https://drive.google.com/drive/folders/1YUH1Wre_CTb0QG8uUeVF97mMZfMGQxnn?usp=sharing). 
 
-Lecture notes can also be found in this [Google Drive](https://drive.google.com/drive/folders/1nYhzeTBA74hwrJ2UxPDx0kZt5ZI_WO92?usp=sharing). It contains:
+`Lecture notes` can also be found in this [Google Drive](https://drive.google.com/drive/folders/1nYhzeTBA74hwrJ2UxPDx0kZt5ZI_WO92?usp=sharing). It contains:
 - [RL applications](https://drive.google.com/file/d/1-1jOKbVE-Ij8mUcjg_-4rlJv7WuIItDd/view?usp=sharing)
 - [Model-based methods](https://drive.google.com/file/d/1-5rlwOdUDRnOcxMOLVKineJc7r3OBbF6/view?usp=sharing) (MDP, Value Iteration, Policy Iteraction, etc)
 - [Model-free methods](https://drive.google.com/file/d/1-3FGDnyUU5-_ChvQEq7MW_0UTDkSUlfr/view?usp=sharing) (MC, TD, SARSA, Q-learning, etc)
