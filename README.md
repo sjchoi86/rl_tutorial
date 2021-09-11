@@ -1,6 +1,6 @@
 # Yet Another Reinforcement Learning Tutorial
 
-This repo contains `self-contained` RL implementations including
+This repo contains self-contained RL implementations including
 - [Basic Plot Usage](https://github.com/sjchoi86/rl_tutorial/blob/main/notebooks/01_basic_grid_plot.ipynb)
 - [Basic OpenAI Gym Usage](https://github.com/sjchoi86/rl_tutorial/blob/main/notebooks/02_basic_gym_usage.ipynb)
 - [Value Iteration](https://github.com/sjchoi86/rl_tutorial/blob/main/notebooks/03_value_iteration.ipynb)
@@ -16,7 +16,7 @@ This repo contains `self-contained` RL implementations including
 
 For those who want to run without `git clone`, please find the colab notebooks in this [Google Drive](https://drive.google.com/drive/folders/1YUH1Wre_CTb0QG8uUeVF97mMZfMGQxnn?usp=sharing). 
 
-`Lecture notes` can also be found in this repo. It contains:
+Lecture notes can also be found in this repo. It contains:
 - [RL applications](https://github.com/sjchoi86/rl_tutorial/blob/main/lecture_notes/Lecture%201.%20RL%20applications.pdf)
 - [Model-based methods](https://github.com/sjchoi86/rl_tutorial/blob/main/lecture_notes/Lecture%202.%20Model-based%20methods.pdf) (MDP, Value Iteration, Policy Iteraction, etc)
 - [Model-free methods](https://github.com/sjchoi86/rl_tutorial/blob/main/lecture_notes/Lecture%203.%20Model-free%20methods.pdf) (MC, TD, SARSA, Q-learning, etc)
